@@ -1,0 +1,14 @@
+{
+  "name": "tp-factures",
+  "version": "1.0.0",
+  "description": "Calculs d'une facture : totaux, remises, TVA et arrondis au centime",
+  "main": "factures.js",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}
